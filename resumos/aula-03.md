@@ -1,0 +1,2 @@
+# 💻 Adicionando Alterações no Repositório Remoto
+Na aula de hoje adicionamos os commits das aulas passadas para o Repositório Remoto utilizando o comando ```git push``` Além disso aprendemos a utilizar o web editor do gitHub aonde conseguimos fazer nossas Alterações.
