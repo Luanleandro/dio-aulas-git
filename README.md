@@ -11,4 +11,4 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas                                    | Resumos                                                                                                                                                                 |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gravando Alterações no Repositório Local | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-backend-com-java) |
+| Gravando Alterações no Repositório Local | [Resumos](https://github.com/Luanleandro/dio-aulas-git/tree/main/resumos) |
